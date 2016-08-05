@@ -219,7 +219,7 @@ function create_config( )
     "spammer1",
     "spammer2"
     },
-    sudo_users = {212990316},--Sudo users
+    sudo_users = {263122239},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
 
